@@ -1,0 +1,55 @@
+========================================================================================
+                        DHAAANKMK PROPRIETARY LICENSE (DUMP-L)
+                                     Version 1.0
+                        Copyright (c) 2026 DhaaankMK. All rights reserved.
+========================================================================================
+
+PREâmbulo:
+A presente Licença Proprietary ("DUMP-L") rege de forma absoluta, irrevogável e abrangente todos os direitos, deveres, permissões e restrições referentes ao uso, execução, distribuição e acesso ao código-fonte, binários, executáveis, documentações, ativos visuais, artefatos gerados, arquivos de configuração e conceitos lógicos (doravante denominados coletivamente como "SOFTWARE") desenvolvidos, publicados e de propriedade exclusiva do autor original, identificado legal e digitalmente como DhaaankMK. 
+
+Ao baixar, clonar, instalar, copiar, executar, interagir ou utilizar este SOFTWARE de qualquer forma, o usuário final, pessoa física ou jurídica (doravante "USUÁRIO"), concorda expressamente, sem ressalvas ou condições, com cada uma das cláusulas, subcláusulas e disposições desta licença. Caso o USUÁRIO não concorde integralmente com os termos aqui dispostos, deverá cessar imediatamente o uso e destruir todas as cópias do SOFTWARE em sua posse.
+
+----------------------------------------------------------------------------------------
+CLÁUSULA PRIMEIRA: DA TITULARIDADE E PROPRIEDADE INTELECTUAL
+----------------------------------------------------------------------------------------
+1.1. Todos os direitos autorais, marcas registradas, segredos comerciais, patentes pendentes, patentes concedidas, elementos estéticos, lógicas de programação, algoritmos de ofuscação, estruturas de payload, identidades visuais e quaisquer outras formas de propriedade intelectual associadas ao SOFTWARE pertencem única, exclusiva e inalienavelmente a DhaaankMK.
+1.2. Esta licença não constitui, sob nenhuma hipótese, uma transferência de propriedade ou venda de direitos autorais. O USUÁRIO adquire apenas o direito restrito de uso pessoal e não comercial, condicionado ao estrito cumprimento das regras desta licença.
+1.3. Nenhuma menção, indicação ou menção implícita em documentações ou repositórios descaracteriza o fato de que a obra é protegida por leis nacionais e tratados internacionais de proteção aos direitos autorais de software.
+
+----------------------------------------------------------------------------------------
+CLÁUSULA SEGUNDA: DAS PERMISSÕES DE USO (O QUE É AUTORIZADO)
+----------------------------------------------------------------------------------------
+2.1. Fica permitido ao USUÁRIO o download, a instalação e a execução local do SOFTWARE em dispositivos de sua propriedade ou controle estrito, exclusivamente para fins educacionais, de teste pessoal ou entretenimento.
+2.2. Fica permitido o uso de ferramentas geradas pelo SOFTWARE (como compiladores de arquivos de texto ou artefatos de IA) estritamente para aplicações pessoais, desde que os produtos resultantes não violem as restrições de autoria descritas na Cláusula Terceira.
+
+----------------------------------------------------------------------------------------
+CLÁUSULA TERCEIRA: DAS PROIBIÇÕES ABSOLUTAS (O QUE É VEDADO)
+----------------------------------------------------------------------------------------
+3.1. PROIBIÇÃO DE MODIFICAÇÃO, DERIVAÇÃO E ENGENHARIA REVERSA: É terminantemente proibida qualquer tentativa de alterar, modificar, adaptar, traduzir, descompilar, desmontar, realizar engenharia reversa, reescrever ou extrair o código-fonte do SOFTWARE, bem como criar trabalhos derivados baseados total ou parcialmente em sua estrutura lógica.
+3.2. PROIBIÇÃO DE REMOÇÃO DE CRÉDITOS: É proibida a remoção, alteração, ocultação, descaracterização ou substituição de quaisquer avisos de direitos autorais, marcas d'água, assinaturas, nomes de repositório, metadados ou referências explícitas ao autor original (DhaaankMK), seja no código-fonte, na interface gráfica (GUI), nos arquivos de documentação (README) ou nos artefatos de saída gerados.
+3.3. PROIBIÇÃO DE COMERCIALIZAÇÃO E MONETIZAÇÃO: O SOFTWARE e todos os seus derivados são estritamente gratuitos. É vedada a venda, o licenciamento comercial, a locação, a sublicenciação, a distribuição em pacotes pagos ou qualquer forma de exploração financeira direta ou indireta do SOFTWARE sem autorização prévia, expressa e por escrito de DhaaankMK.
+3.4. PROIBIÇÃO DE REIVINDICAÇÃO DE AUTORIA (PLÁGIO): É proibido publicar, hospedar em repositórios públicos ou privados de terceiros, ou redistribuir o SOFTWARE sob o nome de outra pessoa que não seja DhaaankMK, configurando crime de falsidade ideológica de autoria e violação direta de direitos autorais.
+
+----------------------------------------------------------------------------------------
+CLÁUSULA QUARTA: DA ISENÇÃO TOTAL DE RESPONSABILIDADE ("AS-IS")
+----------------------------------------------------------------------------------------
+4.1. O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA" (AS-IS), SEM GARANTIAS DE QUALQUER TIPO, SEJA EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO A, GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO PARA UM PROPÓSITO ESPECÍFICO, DESEMPENHO OU NÃO VIOLAÇÃO.
+4.2. EM NENHUMA HIPÓTESE O AUTOR (DHAANKMK) SERÁ RESPONSABILIZADO POR QUAISQUER DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS, PUNITIVOS OU CONSEQUENCIAIS (INCLUINDO, MAS NÃO SE LIMITANDO A, PERDA DE LUCROS, INTERRUPÇÃO DE NEGÓCIOS, PERDA DE DADOS, CORRUPÇÃO DE ARQUIVOS, FALHAS DE SISTEMA, DANOS A HARDWARE OU SOFTWARE, OU QUAISQUER OUTROS PREJUÍZOS PECUNIÁRIOS OU MORAIS) DECORRENTES DO USO, DA IMPOSSIBILIDADE DE USO, DA EXECUÇÃO, DA MÁ COMPILAÇÃO OU DE FALHAS OPERACIONAIS DESTE SOFTWARE.
+4.3. O USUÁRIO assume integral, exclusiva e irrestrita responsabilidade por todos e quaisquer riscos, danos ou consequências advindos da utilização do SOFTWARE, eximindo o autor de qualquer culpa civil ou criminal.
+
+----------------------------------------------------------------------------------------
+CLÁUSULA QUINTA: DA SEGURANÇA E PROIBIÇÃO DE MAU USO
+----------------------------------------------------------------------------------------
+5.1. O USUÁRIO compromete-se a não utilizar o SOFTWARE para fins ilícitos, disseminação de códigos maliciosos, exploração de vulnerabilidades de terceiros, violação de Termos de Serviço de plataformas externas (incluindo inteligências artificiais) ou burlagem de sistemas de segurança de dados.
+5.2. O autor não endossa, fomenta ou se responsabiliza pelo uso indevido de ferramentas de ofuscação de texto ou injeção de payloads desenvolvidas por meio deste projeto. Toda a responsabilidade recai unicamente sobre o operador do SOFTWARE.
+
+----------------------------------------------------------------------------------------
+CLÁUSULA SEXTA: DA VIGÊNCIA, RESCISÃO E SANÇÕES LEGAIS
+----------------------------------------------------------------------------------------
+6.1. Esta licença entra em vigor na data do primeiro acesso ou download do SOFTWARE pelo USUÁRIO e permanece válida por tempo indeterminado.
+6.2. O descumprimento de qualquer uma das cláusulas aqui descritas acarretará a rescisão automática e imediata de todos os direitos de uso concedidos ao USUÁRIO, obrigando-o a apagar permanentemente todas as cópias do SOFTWARE em seu poder.
+6.3. A violação dos termos desta licença constitui infração grave às leis de proteção à propriedade intelectual e aos direitos autorais, outorgando ao autor (DhaaankMK) o direito pleno de adotar medidas judiciais e extrajudiciais cabíveis, incluindo pedidos de indenização por perdas e danos, notificações de remoção por direitos autorais (DMCA e similares) e acionamento legal por plágio e pirataria.
+
+========================================================================================
+FIM DA LICENÇA DUMP-L v9.9 - CRIADO E PROTEGIDO POR DHAAANKMK
+========================================================================================
